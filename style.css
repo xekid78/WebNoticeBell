@@ -1,6 +1,8 @@
 body {
   padding: 20px;
   background: #073B4C;
+  width: 100px;
+  margin: 0 auto;
 }
 
 .notifier {
